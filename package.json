@@ -1,0 +1,25 @@
+{
+  "name": "calculocomissaocorretora",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/RafaelMassayoshi/CalculoComissaoCorretora#readme",
+  "bugs": {
+    "url": "https://github.com/RafaelMassayoshi/CalculoComissaoCorretora/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMassayoshi/CalculoComissaoCorretora.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "comissao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node --watch teste.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
